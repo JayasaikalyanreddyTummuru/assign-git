@@ -25,3 +25,7 @@
 3q)Different branches allows user to isolate their work and merge the code later.
 
 4q) Can have multiple repositories.
+
+
+Comments:
+The answers are correct but can elaborate more.
